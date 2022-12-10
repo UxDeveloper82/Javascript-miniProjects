@@ -28,6 +28,10 @@ This is the main repository for all of the projects in the course.
 | 19  | [Modal](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/19-modal)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/19-modal)   
 | 20  | [Shopping_cart](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/20-Shopping-cart)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/20-Shopping-cart)   
 | 21  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/21-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
+| 22  | [Bookmark](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/22-Bookmark)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Bookmark)   
+| 23  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/23-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
+| 24  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/24-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
+| 25  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/25-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
 
 
 
