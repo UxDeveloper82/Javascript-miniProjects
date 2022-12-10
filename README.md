@@ -22,9 +22,19 @@ This is the main repository for all of the projects in the course.
 | 13  | [Dom_manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/13-Dom-manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/13-Dom-manipulation)      
 | 14  | [Functions_Arrays](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/14-Functions-Arrays)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/14-Functions-Arrays) 
 | 15  | [Flyintext](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Flyintext)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Flyintext)      
-| 16  | [Hamburger](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Hamburger)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Hamburger)   
-| 17  | [Js-Array](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Js-Array)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Js-Array)   
-| 18  | [Flyintext](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Flyintext)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Flyintext)   
+| 16  | [Hamburger](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/16-Hamburger)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/16-Hamburger)   
+| 17  | [Js-Array](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/17-Js-Array)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/17-Js-Array)   
+| 18  | [Pagination](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/18-pagination)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/18-pagination)  
+| 19  | [Modal](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/19-modal)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/19-modal)   
+| 20  | [Shopping_cart](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/20-Shopping-cart)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/20-Shopping-cart)   
+| 21  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/21-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
+
+
+
+
+
+
+
 
 
 
