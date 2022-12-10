@@ -16,3 +16,15 @@ This is the main repository for all of the projects in the course.
 | 07  | [Unique_Value](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/07-Unique-Value)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/07-Unique-Value)      
 | 08  | [Color_Flipper](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/08-color-flipper)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/08-color-flipper)      
 | 09  | [Adding_Numbers](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/09-Adding-numbers)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/09-Adding-numbers)      
+| 10  | [Adding_String](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/10-Adding-String)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/10-Adding-String)      
+| 11  | [Auto_write_text](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/11-Auto-write-text)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/11-Auto-write-text)     
+| 12  | [Array_manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/12-Array-manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/12-Array-manipulation)    
+| 13  | [Dom_manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/13-Dom-manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/13-Dom-manipulation)      
+| 14  | [Functions_Arrays](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/14-Functions-Arrays)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/14-Functions-Arrays) 
+| 15  | [Flyintext](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Flyintext)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Flyintext)      
+
+
+
+
+
+
