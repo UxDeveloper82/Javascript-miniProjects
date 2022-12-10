@@ -22,7 +22,9 @@ This is the main repository for all of the projects in the course.
 | 13  | [Dom_manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/13-Dom-manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/13-Dom-manipulation)      
 | 14  | [Functions_Arrays](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/14-Functions-Arrays)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/14-Functions-Arrays) 
 | 15  | [Flyintext](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Flyintext)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Flyintext)      
-
+| 16  | [Hamburger](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Hamburger)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Hamburger)   
+| 17  | [Js-Array](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Js-Array)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Js-Array)   
+| 18  | [Flyintext](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/15-Flyintext)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/15-Flyintext)   
 
 
 
