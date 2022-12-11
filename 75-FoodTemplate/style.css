@@ -320,7 +320,7 @@
   
   /*Contact-area*/
   .contact{
-    background: url('../images/bg3.jpg');
+    background: url('/images/bg3.jpg');
     color:#fff;
     background-size: cover;
   }
@@ -419,7 +419,7 @@
        position: relative;
        width: 40px;
        height: 40px;
-       background: url('../images/menu.png');
+       background: url('/images/menu.png');
        background-size: 30px;
        background-repeat: no-repeat;
        background-position: center;
