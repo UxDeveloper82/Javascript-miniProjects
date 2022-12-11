@@ -37,7 +37,7 @@
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    background: url('../images/bg.jpg') no-repeat;
+    background: url('images/bg.jpg') no-repeat;
     background-position: center center;
     background-size: cover;
   }
@@ -258,7 +258,7 @@
   }
   
   .testimonials {
-    background: url('../images/bg2.jpg');
+    background: url('images/bg2.jpg');
     background-size: cover;
   }
   
@@ -320,7 +320,7 @@
   
   /*Contact-area*/
   .contact{
-    background: url('/images/bg3.jpg');
+    background: url('images/bg3.jpg');
     color:#fff;
     background-size: cover;
   }
@@ -419,14 +419,14 @@
        position: relative;
        width: 40px;
        height: 40px;
-       background: url('/images/menu.png');
+       background: url('images/menu.png');
        background-size: 30px;
        background-repeat: no-repeat;
        background-position: center;
        cursor: pointer;
     }
     .menuToggle.active{
-      background: url('/images/close.png');
+      background: url('images/close.png');
       background-size: 25px;
       background-repeat: no-repeat;
       background-position: center;
