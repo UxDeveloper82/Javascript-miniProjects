@@ -71,6 +71,19 @@ This is the main repository for all of the projects in the course.
 | 61  | [AnimateJs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/61-animate-js)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/61-animate-js)  
 | 62  | [animate](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/62-animate)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/62-animate)  
 | 63  | [animated-jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/63-animated-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/63-animated-jquery)  
+| 64  | [animation-jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/64-animation-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/64-animation-jquery)  
+| 65 | [Animation_Effects_jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/65-Animation-Effects-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/65-Animation-Effects-jquery)  
+| 66  | [Image_Hide_Jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/66-image_hide-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/66-image_hide-jquery)  
+| 67  | [Jquery_Effect](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/67-Jquery_Effect)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/67-Jquery_Effect)  
+| 68  | [LoadingWithJson-jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/68-loadingWithJson-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/68-loadingWithJson-jquery)  
+| 69  | [PhotoGallery_jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/69-PhotoGallery-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/69-PhotoGallery-jquery)  
+| 70  | [sliderWithJquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/70-sliderWithJquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/70-sliderWithJquery)  
+| 71  | [sliding_image-jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/71-sliding_image-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/71-sliding_image-jquery) 
+| 72 | [ Tables-jquery ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/72-Tables-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/72-Tables-jquery)  
+| 73  | [ Online-Store ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/73-online-store)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/73-online-store)  
+| 74  | [ Github-Profiles ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/74-github-profiles)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/74-github-profiles)  
+| 75  | [ Basic-project ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/75-Basic-project)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/75-Basic-project)  
+
 
 
 
