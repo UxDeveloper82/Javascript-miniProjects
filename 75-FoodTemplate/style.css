@@ -426,7 +426,7 @@
        cursor: pointer;
     }
     .menuToggle.active{
-      background: url('../images/close.png');
+      background: url('/images/close.png');
       background-size: 25px;
       background-repeat: no-repeat;
       background-position: center;
