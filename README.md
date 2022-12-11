@@ -88,7 +88,8 @@ This is the main repository for all of the projects in the course.
 | 78  | [ Netflix-clone ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/78-Netflix-clone)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/78-Netflix-clone)  
 | 79  | [ Ecommersite ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/79-ecommersite)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/79-ecommersite)  
 | 80  | [ Ecommerce-Webite ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/80-ecommerce-website)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/80-ecommerce-website)  
-| 81  | [ Basic-project ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/81-Basic-project)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/81-Basic-project)  
+| 81  | [ YouTube ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/81-youtube)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/81-youtube) 
+| 82  | [ Basic-project ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/81-Basic-project)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/81-Basic-project)  
 
 
 
