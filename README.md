@@ -84,7 +84,7 @@ This is the main repository for all of the projects in the course.
 | 74  | [ Github-Profiles ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/74-github-profiles)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/74-github-profiles)  
 | 75  | [ Food_Template ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/75-FoodTemplate)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/75-FoodTemplate)  
 | 76  | [ GitFinder ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/76-gitFinder)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/76-gitFinder)  
-| 77  | [ Basic-project ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/77-Menu)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/77-Menu)  
+| 77  | [ Menu ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/77-Menu)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/77-Menu)  
 | 78  | [ Basic-project ](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/75-Basic-project)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/75-Basic-project)  
 
 
