@@ -64,7 +64,7 @@ This is the main repository for all of the projects in the course.
 | 55  | [Selecting_Images](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/55-selecting-images)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/55-selecting-images)  
 | 56  | [Split](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/56-Split)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/56-Split)  
 | 57  | [string-Manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/57-String-Manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/57-String-Manipulation)  
-| 58  | [todoApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/58-todoApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/58-todoApp)  
+| 57  | [todoApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/57-todoApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/57-todoApp)  
 
 
 
