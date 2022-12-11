@@ -65,6 +65,12 @@ This is the main repository for all of the projects in the course.
 | 56  | [Split](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/56-Split)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/56-Split)  
 | 57  | [string-Manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/57-String-Manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/57-String-Manipulation)  
 | 57  | [todoApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/57-todoApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/57-todoApp)  
+| 58  | [navbar](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/58-navbar)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/58-navbar)  
+| 59 | [reviews](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/59-reviews)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/59-reviews)  
+| 60  | [Task-List](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/60-Task-List)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/60-Task-List)  
+| 61  | [AnimateJs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/61-animate-js)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/61-animate-js)  
+| 62  | [animate](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/62-animate)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/62-animate)  
+| 63  | [animated-jquery](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/63-animated-jquery)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/63-animated-jquery)  
 
 
 
