@@ -35,6 +35,9 @@ This is the main repository for all of the projects in the course.
 | 26  | [MyBookListCrud](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/26-MyBookListCrud)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/26-MyBookListCrud)   
 | 27  | [FormList](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/27-FormList)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/27-FormList)   
 | 28  | [FetchApi](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/28-FetchApi)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/28-FetchApi)  
+| 29  | [ApiJsTesting](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/29-Api-Js-testing)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/29-Api-Js-testing)  
+| 30  | [YouTubeApi](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/30-YouTubeApi)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/30-YouTubeApi)  
+| 31  | [Snake_Game](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/31-Snake-Game)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/28-Snake-Game)  
 
 
 
