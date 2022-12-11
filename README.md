@@ -47,7 +47,7 @@ This is the main repository for all of the projects in the course.
 | 38  | [Budgetjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/38-Budgetjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/38-Budgetjs)  
 | 39  | [PartFinder](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/39-PartFinder)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/39-PartFinder)  
 | 40  | [Text_Demo](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/40-Text-demo)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/40-Text-demo) 
-| 41  | [Text_Demo](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/41-CallBackFunctions)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/41-Text-demo)  
+| 41  | [CallBackFunctions](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/41-CallBackFunctions)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/41-CallBackFunctions)  
 | 42  | [Weather_Project](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/42-WeatherProject)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/42-WeatherProject)  
 | 43  | [DomObject](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/43-DomObject)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/43-DomObject)  
 | 44  | [Background_changer](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/44-Background-changer)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/44-Background-changer)  
@@ -60,6 +60,11 @@ This is the main repository for all of the projects in the course.
 | 51  | [Testimonialjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/51-Testimonialjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/51-Testimonialjs)  
 | 52  | [toast_notification](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/52-toast-notification)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/52-toast-notification)  
 | 53  | [Pagination](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/53-Pagination)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/53-Pagination)  
+| 54  | [Js-course](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/54-Js-course)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/54-Js-course)  
+| 55  | [Selecting_Images](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/55-selecting-images)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/55-selecting-images)  
+| 56  | [Split](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/56-Split)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/56-Split)  
+| 57  | [string-Manipulation](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/57-String-Manipulation)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/57-String-Manipulation)  
+| 58  | [todoApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/58-todoApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/58-todoApp)  
 
 
 
