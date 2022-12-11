@@ -37,7 +37,11 @@ This is the main repository for all of the projects in the course.
 | 28  | [FetchApi](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/28-FetchApi)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/28-FetchApi)  
 | 29  | [ApiJsTesting](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/29-Api-Js-testing)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/29-Api-Js-testing)  
 | 30  | [YouTubeApi](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/30-YouTubeApi)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/30-YouTubeApi)  
-| 31  | [Snake_Game](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/31-Snake-Game)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/28-Snake-Game)  
+| 31  | [Snake_Game](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/31-Snake-Game)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/31-Snake-Game)  
+| 32  | [TodoLit](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/32-TodoList)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/32-TodoList)  
+| 33  | [Api_Testing](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/33-Api-Testing)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/33-Api-Testing)  
+| 34  | [MovieApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/34-MovieApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/34-MovieApp)  
+| 35  | [Search](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/35-Search)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/35-Search)  
 
 
 
