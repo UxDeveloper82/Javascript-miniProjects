@@ -42,6 +42,11 @@ This is the main repository for all of the projects in the course.
 | 33  | [Api_Testing](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/33-Api-Testing)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/33-Api-Testing)  
 | 34  | [MovieApp](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/34-MovieApp)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/34-MovieApp)  
 | 35  | [Search](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/35-Search)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/35-Search)  
+| 36  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/36-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
+| 37  | [CrudJs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/37-CrudJs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/37-CrudJs)  
+| 38  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/38-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
+| 39  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/39-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
+| 40  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/40-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
 
 
 
