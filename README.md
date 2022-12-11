@@ -28,10 +28,13 @@ This is the main repository for all of the projects in the course.
 | 19  | [Modal](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/19-modal)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/19-modal)   
 | 20  | [Shopping_cart](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/20-Shopping-cart)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/20-Shopping-cart)   
 | 21  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/21-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
-| 22  | [Bookmark](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/22-Bookmark)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Bookmark)   
-| 23  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/23-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
-| 24  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/24-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
-| 25  | [Fetch_joke_api](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/25-Fetch-joke-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/21-Fetch-joke-api)   
+| 22  | [Bookmark](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/22-Bookmark)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/22-Bookmark)   
+| 23  | [Counter](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/23-counter)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/23-counter)   
+| 24  | [HttpWithJavascript](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/24-httpWithJavascript)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/24-httpWithJavascript)   
+| 25  | [AddTasks](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/25-AddTasks)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/25-AddTasks)   
+| 26  | [MyBookListCrud](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/26-MyBookListCrud)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/26-MyBookListCrud)   
+| 27  | [FormList](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/27-FormList)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/27-FormList)   
+| 28  | [FetchApi](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/28-FetchApi)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/28-FetchApi)  
 
 
 
