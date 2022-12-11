@@ -44,10 +44,22 @@ This is the main repository for all of the projects in the course.
 | 35  | [Search](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/35-Search)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/35-Search)  
 | 36  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/36-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
 | 37  | [CrudJs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/37-CrudJs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/37-CrudJs)  
-| 38  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/38-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
-| 39  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/39-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
-| 40  | [Axios](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/40-Axios)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/36-Axios)  
-
+| 38  | [Budgetjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/38-Budgetjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/38-Budgetjs)  
+| 39  | [PartFinder](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/39-PartFinder)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/39-PartFinder)  
+| 40  | [Text_Demo](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/40-Text-demo)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/40-Text-demo) 
+| 41  | [Text_Demo](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/41-CallBackFunctions)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/41-Text-demo)  
+| 42  | [Weather_Project](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/42-WeatherProject)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/42-WeatherProject)  
+| 43  | [DomObject](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/43-DomObject)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/43-DomObject)  
+| 44  | [Background_changer](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/44-Background-changer)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/44-Background-changer)  
+| 45  | [Popup](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/45-popup)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/45-popup)  
+| 46  | [Placeholder](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/46-Placeholder-api)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/46-Placeholder-api)  
+| 47  | [Sliderwithjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/47-sliderwithjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/47-sliderwithjs)  
+| 48  | [Tabsjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/48-tabsjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/48-tabsjs)  
+| 49  | [Purple_heart_rain](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/49-purple-heart-rain)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/49-purple-heart-rain)  
+| 50  | [tell_time](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/50-tell_time)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/50-popup)  
+| 51  | [Testimonialjs](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/51-Testimonialjs)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/51-Testimonialjs)  
+| 52  | [toast_notification](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/52-toast-notification)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/52-toast-notification)  
+| 53  | [Pagination](https://github.com/UxDeveloper82/Javascript-miniProjects/tree/master/53-Pagination)                             | [Live Demo](https://uxdeveloper82.github.io/Javascript-miniProjects/53-Pagination)  
 
 
 
